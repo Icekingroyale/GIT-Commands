@@ -58,11 +58,18 @@ ls
 ```
 ![](./assets/ls.png)
 
-`ls -a` is used to list the contents of the current working directory as well as all hidden files
+10. `ls -a` is used to list the contents of the current working directory as well as all hidden files
 ```sh
 ls -a
 ```
 ![](./assets/ls%20-a.png)
+
+11. `git branch` is used to get all branches available
+```sh
+git branch
+```
+![](./assets/git%20branch.png)
+
 
 
 
